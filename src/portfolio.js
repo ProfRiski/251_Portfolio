@@ -69,9 +69,7 @@ const skills = {
       title: "Website Skills",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Developing a website with good quality according to ability.",
       ],
       softwareSkills: [
         {
@@ -96,9 +94,7 @@ const skills = {
       title: "Discord Bot Skills",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Developing a Discord bot with good quality according to ability",
       ],
       softwareSkills: [
         {
