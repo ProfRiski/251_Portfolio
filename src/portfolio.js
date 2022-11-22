@@ -314,7 +314,7 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
+          title: "-",
           company: "Legato Health Technology",
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
