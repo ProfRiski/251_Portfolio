@@ -25,14 +25,14 @@ const greeting = {
   subTitle:
     "A passionate individual who always learn about coding without giving up.",
   resumeLink:
-    "#",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "http://athifportfolio.ddns.net/",
+  portfolio_repository: "http://athifportfolio.ddns.net/",
+  githubProfile: "https://github.com/athif3017",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
+  // github: "https://github.com/athif3017",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/athif3017",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
