@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Athif",
   logo_name: "Athif",
-  nickname: "@athif3017",
+  nickname: "athif3017",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
