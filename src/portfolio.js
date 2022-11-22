@@ -83,8 +83,8 @@ const skills = {
           },
        },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "HTML5",
+          fontAwesomeClassname: "ion-logo-html5",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
