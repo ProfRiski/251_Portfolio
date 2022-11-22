@@ -66,7 +66,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "My Skills",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
@@ -74,6 +74,14 @@ const skills = {
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+       },
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
