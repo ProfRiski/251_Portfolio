@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Athif",
-  logo_name: "Athif",
+  title: "Athif Rahmawan",
+  logo_name: "Athif Rahmawan",
   nickname: "athif3017",
   subTitle:
     "A passionate individual who always learn about coding without giving up.",
@@ -34,8 +34,7 @@ const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/athif3017",
   // linkedin: "https://www.linkedin.com/in/athif-rahmawan-857056258",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // gmail: "athifrahmawan3017@gmail.com",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
@@ -53,14 +52,8 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "YouTube",
-    link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:athifrahmawan3017@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
