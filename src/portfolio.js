@@ -135,7 +135,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
+      title: "",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
@@ -145,7 +145,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "",
     },
   ],
 };
