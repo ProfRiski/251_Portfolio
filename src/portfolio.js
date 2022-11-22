@@ -159,15 +159,6 @@ const degrees = {
   degrees: [
     {
       title: "Privacy",
-      subtitle: "",
-      alt_name: "",
-      duration: "",
-      descriptions: [
-        "",
-        "",
-        "",
-      ],
-      website_link: "",
     },
   ],
 };
