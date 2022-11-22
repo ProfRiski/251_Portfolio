@@ -164,8 +164,8 @@ const degrees = {
       duration: "",
       descriptions: [
         "",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "",
+        "",
       ],
       website_link: "",
     },
