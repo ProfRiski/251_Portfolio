@@ -66,7 +66,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "My Skills",
+      title: "Website Skills",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
@@ -93,7 +93,7 @@ const skills = {
       ],
     },
     {
-      title: "Full Stack Development",
+      title: "Discord Bot Skills",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React-Redux",
@@ -263,20 +263,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:figma",
           style: {
             color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
