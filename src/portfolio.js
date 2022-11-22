@@ -30,6 +30,7 @@ const greeting = {
   githubProfile: "https://github.com/athif3017",
 };
 
+
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/athif3017",
