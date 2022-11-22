@@ -134,7 +134,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "",
+      profileLink: "https://www.hackerrank.com/layman_brother",
     },
     {
       siteName: "Codechef",
@@ -142,7 +142,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "",
+      profileLink: "https://www.codechef.com/users/ashutosh_1919",
     },
     {
       siteName: "Codeforces",
@@ -150,7 +150,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "",
+      profileLink: "http://codeforces.com/profile/layman_brother",
     },
     {
       siteName: "Hackerearth",
