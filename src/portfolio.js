@@ -134,7 +134,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "",
+      profileLink: "https://athifportfolio.ddns.net/#/education",
     },
     {
       siteName: "Codechef",
