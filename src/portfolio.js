@@ -129,9 +129,16 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/layman_brother",
     },
   ],
 };
+
 const degrees = {
   degrees: [
     {
