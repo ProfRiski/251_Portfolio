@@ -13,14 +13,14 @@ const seo = {
   og: {
     title: "Athif's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://athifportfolio.ddns.net/",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Athif",
-  logo_name: "AshutoshHathidara",
+  logo_name: "Athif",
   nickname: "@athif3017",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
