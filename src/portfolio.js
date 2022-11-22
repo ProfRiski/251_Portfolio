@@ -149,8 +149,7 @@ const certifications = {
     {
       title: "Privacy",
       certificate_link:
-        "",
-      alt_name: "Stanford University",
+        "https://athifportfolio.netlify.app/#/education",
       color_code: "#8C151599",
     },
     {
