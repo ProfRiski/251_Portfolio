@@ -129,7 +129,7 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "Privacy",
+      siteName: "",
       iconifyClassname: "simple-icons:ROS",
       style: {
         color: "#2EC866",
@@ -137,36 +137,20 @@ const competitiveSites = {
       profileLink: "https://athifportfolio.ddns.net/#/education",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
+      siteName: "",
+      iconifyClassname: "simple-icons:ROS",
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://athifportfolio.ddns.net/#/education",
     },
     {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
+      siteName: "",
+      iconifyClassname: "simple-icons:ROS",
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://athifportfolio.ddns.net/#/education",
     },
   ],
 };
